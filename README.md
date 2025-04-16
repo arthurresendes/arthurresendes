@@ -16,7 +16,7 @@
 ### 🤝 **Conecte-se comigo**
 <p align="left">
   <a href="https://www.linkedin.com/in/arthur-resende-gomes-3312bb305" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" alt="LinkedIn" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 ### ⚙️ **Framework:**
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" width="40" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="40" alt=".NET" />
 </p>
 
 ---
