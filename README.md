@@ -33,7 +33,7 @@
 
 ---
 
-### ⚙️ **Framework:**
+ **Framework:**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="40" alt=".NET" />
@@ -41,7 +41,7 @@
 
 ---
 
-### 🗄️ **Banco de Dados:**
+ **Banco de Dados:**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="SQL" />
@@ -50,12 +50,7 @@
 📊 Minhas Contribuições
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurresendes&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurresendes&layout=compact&theme=radical" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=arthurresendes&theme=tokyo-night" alt="grafico de atividades do github" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurresendes&theme=tokyo-night" alt="Gráfico de atividades" />
 </p>
 
 ---
