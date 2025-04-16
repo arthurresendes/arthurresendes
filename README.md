@@ -1,9 +1,9 @@
 <h1 align="center">Olá, eu sou o Arthur Resende Gomes</h1>
-<p align="center">Desenvolvedor em constante evolução | Amante de tecnologia | Apaixonado por aprender</p>
+<p align="center">🚀 Desenvolvedor em constante evolução | 💻 Amante de tecnologia | 📚 Apaixonado por aprender</p>
 
 ---
 
-### **Arthur's GitHub Stats**
+### 📊 **Arthur's GitHub Stats**
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurresendes&show_icons=true&theme=radical)
@@ -13,32 +13,43 @@
 
 ---
 
-### **Conecte-se comigo**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-resende-gomes-3312bb305)
+### 🤝 **Conecte-se comigo**
+<p align="left">
+  <a href="https://www.linkedin.com/in/arthur-resende-gomes-3312bb305" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### **Linguagens:**
+### 🧠 **Linguagens:**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-
----
-
-### **Framework:**
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="C" />
+</p>
 
 ---
 
-### **Banco de Dados:**
+### ⚙️ **Framework:**
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" width="40" alt=".NET" />
+</p>
+
+---
+
+### 🗄️ **Banco de Dados:**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="SQL" />
+</p>
 
 ---
 
 <p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
+
 
 
