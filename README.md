@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="SQL" />
 </p>
 
-📊 Minhas Contribuições
+ Minhas Contribuições
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurresendes&theme=tokyo-night" alt="Gráfico de atividades" />
