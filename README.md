@@ -1,9 +1,9 @@
 <h1 align="center">Olá, eu sou o Arthur Resende Gomes</h1>
-<p align="center">🚀 Desenvolvedor em constante evolução | 💻 Amante de tecnologia | 📚 Apaixonado por aprender</p>
+<p align="center Desenvolvedor em constante evolução | 💻 Amante de tecnologia | 📚  Desenvolvimento de software multiplataforma</p>
 
 ---
 
-### 📊 **Arthur's GitHub Stats**
+ **Arthur's GitHub Stats**
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurresendes&show_icons=true&theme=radical)
@@ -13,7 +13,7 @@
 
 ---
 
-### 🤝 **Conecte-se comigo**
+  **Conecte-se comigo**
 <p align="left">
   <a href="https://www.linkedin.com/in/arthur-resende-gomes-3312bb305" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" alt="LinkedIn" />
@@ -22,7 +22,7 @@
 
 ---
 
-### 🧠 **Linguagens:**
+  **Linguagens:**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML" />
@@ -45,6 +45,17 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="SQL" />
+</p>
+
+📊 Minhas Contribuições
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurresendes&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurresendes&layout=compact&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=arthurresendes&theme=tokyo-night" alt="grafico de atividades do github" />
 </p>
 
 ---
