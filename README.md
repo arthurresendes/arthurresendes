@@ -1,5 +1,5 @@
-<h1 style="text-align: left; text-shadow: 2px 2px 4px #000000;">👋 Olá, eu sou o Arthur Resende Gomes</h1>
-<p style="text-align: left; text-shadow: 1px 1px 2px #000000;">💻 Desenvolvedor em constante evolução | 🌟 Apaixonado por tecnologia | 🌐 Desenvolvimento de software multiplataforma</p>
+<h1 style="text-align: left; text-shadow: 2px 2px 4px #000000;">👋 Bem-vindo, eu sou o Arthur Resende Gomes</h1>
+<p style="text-align: left; text-shadow: 1px 1px 2px #000000;">💻 Desenvolvedor software multiplataforma | 🌟 Apaixonado por tecnologia | 🌐 Back-end , front-end e analista de dados!</p>
 
 ---
 
