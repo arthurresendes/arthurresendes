@@ -33,7 +33,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="C" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Portugol_Studio_Icone.png/600px-Portugol_Studio_Icone.png" height="40" width="40" alt="Portugol" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
 </p>
+
+
 
 ---
 
