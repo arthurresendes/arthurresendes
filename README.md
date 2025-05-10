@@ -1,5 +1,5 @@
 <h1 style="text-align: left; text-shadow: 2px 2px 4px #000000;">👋 Bem-vindo, eu sou o Arthur Resende Gomes</h1>
-<p style="text-align: left; text-shadow: 1px 1px 2px #000000;">💻 Desenvolvedor software multiplataforma | 🌟 Apaixonado por tecnologia | 🌐 Back-end , front-end e analista de dados!</p>
+<p style="text-align: left; text-shadow: 1px 1px 2px #000000;">💻 Desenvolvedor software multiplataforma | 🌟 Apaixonado por tecnologia | 🌐 Back-end, front-end e analista de dados!</p>
 
 ---
 
@@ -10,10 +10,8 @@
 
 <h2 style="text-align: left; text-shadow: 2px 2px 4px #000000;">📊 Estatísticas do GitHub</h2>
 <div style="text-align: left; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); padding: 10px;">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurresendes&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurresendes&layout=compact&theme=radical)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurresendes&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurresendes&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
 ---
@@ -33,10 +31,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="C" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Portugol_Studio_Icone.png/600px-Portugol_Studio_Icone.png" height="40" width="40" alt="Portugol" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/arthurresendes/recursos-imagens/main/portugol.png" height="40" width="40" alt="Portugol" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
 </p>
-
-
 
 ---
 
@@ -50,7 +46,7 @@
 <h2 style="text-align: left; text-shadow: 2px 2px 4px #000000;">🗄️ Banco de Dados</h2>
 <p style="text-align: left;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/XAMPP_Logo.svg/512px-XAMPP_Logo.svg.png" height="40" width="40" alt="XAMPP" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/arthurresendes/recursos-imagens/main/xampp.png" height="40" width="40" alt="XAMPP" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
 </p>
 
 ---
