@@ -27,26 +27,42 @@
 
 <h2 style="text-align: left; text-shadow: 2px 2px 4px #000000;">💻 Linguagens</h2>
 <p style="text-align: left;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px; cursor: default; pointer-events: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;cursor: default; pointer-events: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;cursor: default; pointer-events: none;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="C" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
-  <img src="https://i0.wp.com/purainfo.com.br/wp-content/uploads/2016/07/visual.jpg?fit=300%2C205&ssl=1" height="40" width="40" alt="Portugol" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;cursor: default; pointer-events: none;" />
+  <a href="https://arthurresendes.github.io/Biografia/portfolio2" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
+  </a>
+  <a href="https://arthurresendes.github.io/Biografia/portfolio2" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
+  </a>
+  <a href="https://arthurresendes.github.io/Biografia/Calculadora/index.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
+  </a>
+  <a href="https://github.com/arthurresendes/C" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="C" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
+  </a>
+  <a href="https://youtu.be/8mei6uVttho?si=J07EiQeLCnH90dAK" target="_blank">
+    <img src="https://i0.wp.com/purainfo.com.br/wp-content/uploads/2016/07/visual.jpg?fit=300%2C205&ssl=1" height="40" width="40" alt="Portugol" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
+  </a>
 </p>
 
 ---
 
 <h2 style="text-align: left; text-shadow: 2px 2px 4px #000000;">🛠️ Framework</h2>
 <p style="text-align: left;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="40" alt=".NET" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
+  <a href="https://github.com/arthurresendes/projeto_dotnetcore" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="40" alt=".NET" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
+  </a>
 </p>
 
 ---
 
 <h2 style="text-align: left; text-shadow: 2px 2px 4px #000000;">🗄️ Banco de Dados</h2>
 <p style="text-align: left;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px; cursor: default; pointer-events: none;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" height="40" width="40" alt="XAMPP" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px; cursor: default; pointer-events: none;" />
+  <a href="https://www.udemy.com/course/sql-do-basico-ao-avancado-com-mysql-e-projeto/?couponCode=2021PM25" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
+  </a>
+  <a href="" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" height="40" width="40" alt="XAMPP" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
+  </a>
 </p>
 
 ---
@@ -60,3 +76,4 @@
 
 <h2 style="text-align: left; text-shadow: 2px 2px 4px #000000;">✨ Obrigado por visitar meu perfil! ✨</h2>
 <p style="text-align: left; text-shadow: 1px 1px 2px #000000;">Espero que tenha gostado e encontrado algo interessante aqui. Vamos colaborar e crescer juntos no mundo da tecnologia!</p>
+
