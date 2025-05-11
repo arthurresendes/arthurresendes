@@ -46,7 +46,7 @@
 <h2 style="text-align: left; text-shadow: 2px 2px 4px #000000;">🗄️ Banco de Dados</h2>
 <p style="text-align: left;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
-  <img src="https://raw.githubusercontent.com/arthurresendes/recursos-imagens/main/xampp.png" height="40" width="40" alt="XAMPP" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" height="40" width="40" alt="XAMPP" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
 </p>
 
 ---
