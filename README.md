@@ -27,7 +27,7 @@
 
 <h2 style="text-align: left; text-shadow: 2px 2px 4px #000000;">💻 Linguagens</h2>
 <p style="text-align: left;">
-  <a href="https://arthurresendes.github.io/Biografia/portfolio2" target="_blank">
+  <a href="https://arthurresendes.github.io/Portfolio/portfolio2.html" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
   </a>
   <a href="https://arthurresendes.github.io/Biografia/portfolio2" target="_blank">
