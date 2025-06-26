@@ -88,12 +88,12 @@
 
   <!-- Excel -->
   <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" height="40" width="40" alt="Excel" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="40" width="40" alt="Excel" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
   </a>
 
   <!-- Alteryx -->
   <a href="https://www.alteryx.com/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/674621/228560947-3ecf1a57-e29a-4dd3-ae5f-388ab9be2f19.png" height="40" width="40" alt="Alteryx" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px; border-radius: 5px;" />
+    <img src="https://raw.githubusercontent.com/arthurresendes/assets/main/alteryx-logo.png" height="40" width="40" alt="Alteryx" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px; border-radius: 5px;" />
   </a>
 
   <!-- SAP Financeiro -->
