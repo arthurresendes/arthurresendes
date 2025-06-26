@@ -52,9 +52,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="40" alt=".NET" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
   </a>
   <a href="https://github.com/arthurresendes/" target="_blank">
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" width="40" alt="Bootstrap" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;"/>
-
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" width="40" alt="Bootstrap" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;"/>
   </a>
 </p>
 
@@ -67,6 +65,9 @@
   </a>
   <a href="" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" height="40" width="40" alt="XAMPP" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
+  </a>
+  <a href="" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="40" alt="Postgresql" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;"/>
   </a>
 </p>
 
