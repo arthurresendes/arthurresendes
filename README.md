@@ -73,6 +73,36 @@
 
 ---
 
+<h2 style="text-align: left; text-shadow: 2px 2px 4px #000000;">🧰 Ferramentas e Plataformas</h2>
+<p style="text-align: left;">
+  <!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="40" alt="Figma" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
+  </a>
+
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="VS Code" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
+  </a>
+
+  <!-- Excel -->
+  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-plain.svg" height="40" width="40" alt="Excel" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
+  </a>
+
+  <!-- Alteryx -->
+  <a href="https://www.alteryx.com/" target="_blank">
+    <img src="https://seeklogo.com/images/A/alteryx-logo-B8C3D1F1F3-seeklogo.com.png" height="40" width="40" alt="Alteryx" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px; border-radius: 5px;" />
+  </a>
+
+  <!-- SAP -->
+  <a href="https://www.sap.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/sap-1.svg" height="40" width="40" alt="SAP" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
+  </a>
+</p>
+
+---
+
 <h2 style="text-align: left; text-shadow: 2px 2px 4px #000000;">📈 Minhas Contribuições</h2>
 <p style="text-align: left; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); padding: 10px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurresendes&theme=tokyo-night" alt="Gráfico de atividades" />
