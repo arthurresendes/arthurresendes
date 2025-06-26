@@ -75,6 +75,7 @@
 
 <h2 style="text-align: left; text-shadow: 2px 2px 4px #000000;">🧰 Ferramentas e Plataformas</h2>
 <p style="text-align: left;">
+
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="40" alt="Figma" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
@@ -87,18 +88,19 @@
 
   <!-- Excel -->
   <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-plain.svg" height="40" width="40" alt="Excel" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" height="40" width="40" alt="Excel" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
   </a>
 
   <!-- Alteryx -->
   <a href="https://www.alteryx.com/" target="_blank">
-    <img src="https://seeklogo.com/images/A/alteryx-logo-B8C3D1F1F3-seeklogo.com.png" height="40" width="40" alt="Alteryx" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px; border-radius: 5px;" />
+    <img src="https://user-images.githubusercontent.com/674621/228560947-3ecf1a57-e29a-4dd3-ae5f-388ab9be2f19.png" height="40" width="40" alt="Alteryx" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px; border-radius: 5px;" />
   </a>
 
-  <!-- SAP -->
-  <a href="https://www.sap.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/sap-1.svg" height="40" width="40" alt="SAP" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
+  <!-- SAP Financeiro -->
+  <a href="https://www.sap.com/products/financial-management.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" height="40" width="40" alt="SAP Financeiro" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
   </a>
+
 </p>
 
 ---
