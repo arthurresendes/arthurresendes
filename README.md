@@ -74,11 +74,11 @@
 ---
 
 <h2 style="text-align: left; text-shadow: 2px 2px 4px #000000;">🧰 Ferramentas e Plataformas</h2>
-<p style="text-align: left;">
+<p style="text-align: left; padding: 20px">
 
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="40" alt="Figma" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px; padding: 50px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="40" alt="Figma" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 5px;" />
   </a>
 
   <!-- VS Code -->
