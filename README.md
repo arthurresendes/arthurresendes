@@ -93,8 +93,9 @@
 
   <!-- Alteryx -->
   <a href="https://www.alteryx.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/alteryx.png" height="40" width="40" alt="Alteryx" style="box-shadow: 4px 4px 10px rgba(0,0,0,0.5); margin: 5px; border-radius: 5px;" />
+  <img src="https://github.com/ARTHURRESENDES/assets/blob/main/alteryx-logo.png?raw=true" height="40" width="40" alt="Alteryx" style="box-shadow: 4px 4px 10px rgba(0,0,0,0.5); margin: 5px; border-radius: 5px;" />
 </a>
+
 
 
   <!-- SAP Financeiro -->
