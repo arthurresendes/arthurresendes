@@ -42,6 +42,9 @@
   <a href="https://youtu.be/8mei6uVttho?si=J07EiQeLCnH90dAK" target="_blank">
     <img src="https://i0.wp.com/purainfo.com.br/wp-content/uploads/2016/07/visual.jpg?fit=300%2C205&ssl=1" height="40" width="40" alt="Portugol" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 10px;" />
   </a>
+  <a href="https://github.com/arthurresendes/python" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" style="box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); margin: 10px;" />
+  </a>
 </p>
 
 ---
