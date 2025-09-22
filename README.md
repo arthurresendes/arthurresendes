@@ -39,9 +39,6 @@
   <a href="https://github.com/arthurresendes/C" target="_blank" style="display: inline-block; margin: 10px; border-radius: 8px; overflow: hidden;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" width="48" alt="C" style="box-shadow: 4px 4px 16px #00599c; border-radius: 8px; background: #fff;" />
   </a>
-  <a href="https://youtu.be/8mei6uVttho?si=J07EiQeLCnH90dAK" target="_blank" style="display: inline-block; margin: 10px; border-radius: 8px; overflow: hidden;">
-    <img src="https://i0.wp.com/purainfo.com.br/wp-content/uploads/2016/07/visual.jpg?fit=300%2C205&ssl=1" height="48" width="48" alt="Portugol" style="box-shadow: 4px 4px 16px #3776ab; border-radius: 8px; background: #fff; object-fit: cover;" />
-  </a>
   <a href="https://github.com/arthurresendes/python" target="_blank" style="display: inline-block; margin: 10px; border-radius: 8px; overflow: hidden;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" width="48" alt="Python" style="box-shadow: 4px 4px 16px #306998; border-radius: 8px; background: #fff;" />
   </a>
