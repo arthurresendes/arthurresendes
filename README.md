@@ -51,8 +51,23 @@
   <a href="https://github.com/arthurresendes/projeto_dotnetcore" target="_blank" style="display: inline-block; margin: 10px; border-radius: 8px; overflow: hidden;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="48" width="48" alt=".NET" style="box-shadow: 4px 4px 16px #512bd4; border-radius: 8px; background: #fff;" />
   </a>
+  <a href="https://github.com/arthurresendes/Fats-Api" target="_blank" style="display: inline-block; margin: 10px; border-radius: 8px; overflow: hidden;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="48" width="48" alt="FastAPI" style="box-shadow: 4px 4px 16px #009688; border-radius: 8px; background: #fff;" />
+  </a>
+</p>
+
+---
+
+<h2 style="text-align: left; text-shadow: 2px 2px 4px #000000;">📚 Biblioteca</h2>
+<p style="text-align: left;">
   <a href="" target="_blank" style="display: inline-block; margin: 10px; border-radius: 8px; overflow: hidden;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" width="48" alt="Bootstrap" style="box-shadow: 4px 4px 16px #563d7c; border-radius: 8px; background: #fff;" />
+  </a>
+  <a href="https://github.com/SeleniumHQ/selenium/" target="_blank" style="display: inline-block; margin: 10px; border-radius: 8px; overflow: hidden;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" height="48" width="48" alt="Selenium" style="box-shadow: 4px 4px 16px #43b02a; border-radius: 8px; background: #fff;" />
+  </a>
+  <a href="https://github.com/pandas-dev/pandas" target="_blank" style="display: inline-block; margin: 10px; border-radius: 8px; overflow: hidden;">
+    <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" height="48" width="48" alt="Pandas" style="box-shadow: 4px 4px 16px #150458; border-radius: 8px; background: #fff;" />
   </a>
 </p>
 
