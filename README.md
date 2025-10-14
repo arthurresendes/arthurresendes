@@ -51,7 +51,7 @@
 
 ## 📚 Bibliotecas
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <a href="https://github.com/arthurresendes/Aprendizado-Frontend"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="48"></a>
+  <a href="https://github.com/arthurresendes/Aprendizado-Frontend/tree/main/Aprendizado_bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="48"></a>
   <a href="https://github.com/arthurresendes/supplier_automation/blob/main/main.py"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" height="48"></a>
   <a href="https://github.com/arthurresendes/Projetos-Python/tree/main/DataFrames" target="_blank">
     <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" height="48" width="48" alt="Pandas" style="box-shadow: 4px 4px 16px #150458; border-radius: 8px; background: #fff;" />
