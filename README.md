@@ -32,7 +32,7 @@
 ---
 
 ## 🛠️ Frameworks
-[![My Skills](https://skillicons.dev/icons?i=dotnet,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,fastapi,flask)](https://skillicons.dev)
 
 ---
 
