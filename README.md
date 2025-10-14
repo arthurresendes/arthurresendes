@@ -28,7 +28,7 @@
 ## 💻 Linguagens
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="https://github.com/arthurresendes/Projetos-HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" height="48"></a>
-  <a href="https://github.com/arthurresendes/Projetos-HTML"><img src="https://skillicons.dev/icons?i=css" alt="CSS" height="48"></a>
+  <a href="https://github.com/arthurresendes/Aprendizado-Frontend/tree/main/Aprendizado_CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" height="48"></a>
   <a href="https://github.com/arthurresendes/Aprendizado-JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JS" height="48"></a>
   <a href="https://github.com/arthurresendes/Projetos-Python"><img src="https://skillicons.dev/icons?i=py" alt="Python" height="48"></a>
   <a href="https://github.com/arthurresendes/Projetos-C"><img src="https://skillicons.dev/icons?i=c" alt="C" height="48"></a>
@@ -42,18 +42,18 @@
 
 ## 🛠️ Frameworks
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" height="48"></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="48"></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="48"></a>
+  <a href="https://github.com/arthurresendes/ESG1"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" height="48"></a>
+  <a href="https://github.com/arthurresendes/Fats-Api"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="48"></a>
+  <a href="https://github.com/arthurresendes"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="48"></a>
 </div>
 
 ---
 
 ## 📚 Bibliotecas
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="48"></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" height="48"></a>
-  <a href="https://github.com/pandas-dev/pandas" target="_blank">
+  <a href="https://github.com/arthurresendes/Aprendizado-Frontend"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="48"></a>
+  <a href="https://github.com/arthurresendes/supplier_automation/blob/main/main.py"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" height="48"></a>
+  <a href="https://github.com/arthurresendes/Projetos-Python/tree/main/DataFrames" target="_blank">
     <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" height="48" width="48" alt="Pandas" style="box-shadow: 4px 4px 16px #150458; border-radius: 8px; background: #fff;" />
   </a>
 </div>
@@ -62,29 +62,22 @@
 
 ## 🗄️ Banco de Dados
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="48"></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="48"></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="48"></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="48"></a>
+  <a href="https://github.com/arthurresendes/Banco_dados-Relacional"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="48"></a>
+  <a href="https://github.com/arthurresendes/Banco_dados-Relacional"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="48"></a>
+  <a href="https://github.com/arthurresendes/Banco_dados-Relacional"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="48"></a>
+  <a href="https://github.com/arthurresendes/Banco_dados-Relacional"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="48"></a>
 </div>
 
 ---
 
 ## 🧰 Ferramentas e Plataformas
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="48"></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="48"></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" height="48"></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="48"></a>
-  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="48" width="48" alt="Excel" style="box-shadow: 4px 4px 16px #217346; border-radius: 8px; background: #fff;" />
-  </a>
-  <a href="https://www.alteryx.com/" target="_blank">
-    <img src="https://github.com/arthurresendes/assets/blob/main/alteryx-logo.jpeg?raw=true" height="48" width="48" alt="Alteryx" style="box-shadow: 4px 4px 16px #0f5c8f; border-radius: 8px; background: #fff;" />
-  </a>
-  <a href="https://www.sap.com/products/financial-management.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" height="48" width="48" alt="SAP Financeiro" style="box-shadow: 4px 4px 16px #001f5b; border-radius: 8px; background: #fff;" />
-  </a>
+  <a href="https://github.com/arthurresendes"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="48"></a>
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="48">
+  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" height="48">
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="48">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="48" width="48" alt="Excel" style="box-shadow: 4px 4px 16px #217346; border-radius: 8px; background: #fff;" />
+  <img src="https://github.com/arthurresendes/assets/blob/main/alteryx-logo.jpeg?raw=true" height="48" width="48" alt="Alteryx" style="box-shadow: 4px 4px 16px #0f5c8f; border-radius: 8px; background: #fff;" />
 </div>
 
 
