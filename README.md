@@ -27,21 +27,7 @@
 
 <h2 style="text-align: left; text-shadow: 2px 2px 4px #000000;">💻 Linguagens</h2>
 <p style="text-align: left;">
-  <a href="https://arthurresendes.github.io/Portfolio/portfolio2.html" target="_blank" style="display: inline-block; margin: 10px; border-radius: 8px; overflow: hidden;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" width="48" alt="HTML" style="box-shadow: 4px 4px 16px #f16529; border-radius: 8px; background: #fff;" />
-  </a>
-  <a href="https://arthurresendes.github.io/Biografia/portfolio2" target="_blank" style="display: inline-block; margin: 10px; border-radius: 8px; overflow: hidden;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" width="48" alt="CSS" style="box-shadow: 4px 4px 16px #264de4; border-radius: 8px; background: #fff;" />
-  </a>
-  <a href="https://arthurresendes.github.io/Biografia/Calculadora/index.html" target="_blank" style="display: inline-block; margin: 10px; border-radius: 8px; overflow: hidden;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" width="48" alt="JavaScript" style="box-shadow: 4px 4px 16px #f7df1e; border-radius: 8px; background: #fff;" />
-  </a>
-  <a href="https://github.com/arthurresendes/C" target="_blank" style="display: inline-block; margin: 10px; border-radius: 8px; overflow: hidden;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" width="48" alt="C" style="box-shadow: 4px 4px 16px #00599c; border-radius: 8px; background: #fff;" />
-  </a>
-  <a href="https://github.com/arthurresendes/python" target="_blank" style="display: inline-block; margin: 10px; border-radius: 8px; overflow: hidden;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" width="48" alt="Python" style="box-shadow: 4px 4px 16px #306998; border-radius: 8px; background: #fff;" />
-  </a>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,c,cpp,php)](https://skillicons.dev)
 </p>
 
 ---
