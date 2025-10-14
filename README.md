@@ -54,17 +54,18 @@
 ## 🧰 Ferramentas e Plataformas
 [![My Skills](https://skillicons.dev/icons?i=github,linux,windows,vscode)](https://skillicons.dev)
 
-<p style="text-align: left; padding: 20px;">
-  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" style="display: inline-block; margin: 10px; border-radius: 8px; overflow: hidden;">
+<div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap; padding: 10px;">
+  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="48" width="48" alt="Excel" style="box-shadow: 4px 4px 16px #217346; border-radius: 8px; background: #fff;" />
   </a>
-  <a href="https://www.alteryx.com/" target="_blank" style="display: inline-block; margin: 10px; border-radius: 8px; overflow: hidden;">
+  <a href="https://www.alteryx.com/" target="_blank">
     <img src="https://github.com/arthurresendes/assets/blob/main/alteryx-logo.jpeg?raw=true" height="48" width="48" alt="Alteryx" style="box-shadow: 4px 4px 16px #0f5c8f; border-radius: 8px; background: #fff;" />
   </a>
-  <a href="https://www.sap.com/products/financial-management.html" target="_blank" style="display: inline-block; margin: 10px; border-radius: 8px; overflow: hidden;">
+  <a href="https://www.sap.com/products/financial-management.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" height="48" width="48" alt="SAP Financeiro" style="box-shadow: 4px 4px 16px #001f5b; border-radius: 8px; background: #fff;" />
   </a>
-</p>
+</div>
+
 
 ---
 
