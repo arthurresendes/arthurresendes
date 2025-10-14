@@ -46,19 +46,8 @@
 </p>
 
 ---
-
-<h2 style="text-align: left; text-shadow: 2px 2px 4px #000000;">🗄️ Banco de Dados</h2>
-<p style="text-align: left;">
-  <a href="https://www.udemy.com/course/sql-do-basico-ao-avancado-com-mysql-e-projeto/?couponCode=2021PM25" target="_blank" style="display: inline-block; margin: 10px; border-radius: 8px; overflow: hidden;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" width="48" alt="MySQL" style="box-shadow: 4px 4px 16px #00758f; border-radius: 8px; background: #fff;" />
-  </a>
-  <a href="" target="_blank" style="display: inline-block; margin: 10px; border-radius: 8px; overflow: hidden;">
-    <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" height="48" width="48" alt="XAMPP" style="box-shadow: 4px 4px 16px #fb7a24; border-radius: 8px; background: #fff;" />
-  </a>
-  <a href="" target="_blank" style="display: inline-block; margin: 10px; border-radius: 8px; overflow: hidden;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" width="48" alt="PostgreSQL" style="box-shadow: 4px 4px 16px #336791; border-radius: 8px; background: #fff;" />
-  </a>
-</p>
+## 🗄️ Banco de Dados
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,,sqlite,supabase)](https://skillicons.dev)
 
 ---
 
