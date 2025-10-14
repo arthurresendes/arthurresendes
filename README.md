@@ -41,29 +41,41 @@
 ---
 
 ## 🛠️ Frameworks
-[![My Skills](https://skillicons.dev/icons?i=dotnet,fastapi,flask)](https://skillicons.dev)
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" height="48"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="48"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="48"></a>
+</div>
 
 ---
+
 ## 📚 Bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,selenium)](https://skillicons.dev)
-
-
-<p style="text-align: left;">
-  <a href="https://github.com/pandas-dev/pandas" target="_blank" style="display: inline-block; margin: 10px; border-radius: 8px; overflow: hidden;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="48"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" height="48"></a>
+  <a href="https://github.com/pandas-dev/pandas" target="_blank">
     <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" height="48" width="48" alt="Pandas" style="box-shadow: 4px 4px 16px #150458; border-radius: 8px; background: #fff;" />
   </a>
-</p>
+</div>
 
 ---
+
 ## 🗄️ Banco de Dados
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase)](https://skillicons.dev)
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="48"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="48"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="48"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="48"></a>
+</div>
 
 ---
 
 ## 🧰 Ferramentas e Plataformas
-[![My Skills](https://skillicons.dev/icons?i=github,linux,windows,vscode)](https://skillicons.dev)
-
-<div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap; padding: 10px;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="48"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="48"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" height="48"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="48"></a>
   <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="48" width="48" alt="Excel" style="box-shadow: 4px 4px 16px #217346; border-radius: 8px; background: #fff;" />
   </a>
