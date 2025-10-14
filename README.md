@@ -25,10 +25,9 @@
 
 ---
 
-<h2 style="text-align: left; text-shadow: 2px 2px 4px #000000;">💻 Linguagens</h2>
-<p style="text-align: left;">
-  [My Skills](https://skillicons.dev/icons?i=html,css,js,py,c,cpp,php)](https://skillicons.dev)
-</p>
+## 💻 Linguagens
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,c,cpp,php)](https://skillicons.dev)
+
 
 ---
 
