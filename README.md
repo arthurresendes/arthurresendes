@@ -47,7 +47,7 @@
 
 ---
 ## 🗄️ Banco de Dados
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,,sqlite,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase)](https://skillicons.dev)
 
 ---
 
