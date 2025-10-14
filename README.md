@@ -26,7 +26,16 @@
 ---
 
 ## 💻 Linguagens
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,c,cpp,php)](https://skillicons.dev)
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" alt="HTML" height="48"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" alt="CSS" height="48"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" alt="JS" height="48"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py" alt="Python" height="48"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" alt="C" height="48"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="48"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" alt="PHP" height="48"></a>
+</div>
+
 
 
 ---
