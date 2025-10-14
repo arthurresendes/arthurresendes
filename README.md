@@ -31,15 +31,8 @@
 
 ---
 
-<h2 style="text-align: left; text-shadow: 2px 2px 4px #000000;">🛠️ Frameworks</h2>
-<p style="text-align: left;">
-  <a href="https://github.com/arthurresendes/projeto_dotnetcore" target="_blank" style="display: inline-block; margin: 10px; border-radius: 8px; overflow: hidden;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="48" width="48" alt=".NET" style="box-shadow: 4px 4px 16px #512bd4; border-radius: 8px; background: #fff;" />
-  </a>
-  <a href="https://github.com/arthurresendes/Fats-Api" target="_blank" style="display: inline-block; margin: 10px; border-radius: 8px; overflow: hidden;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="48" width="48" alt="FastAPI" style="box-shadow: 4px 4px 16px #009688; border-radius: 8px; background: #fff;" />
-  </a>
-</p>
+## 🛠️ Frameworks
+[![My Skills](https://skillicons.dev/icons?i=dotnet,fastapi)](https://skillicons.dev)
 
 ---
 
