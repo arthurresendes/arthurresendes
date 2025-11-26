@@ -9,9 +9,9 @@
 ---
 
 <h2 style="text-align: left; text-shadow: 2px 2px 4px #000000;">📊 Estatísticas do GitHub</h2>
-<div style="text-align: left; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); padding: 10px; border-radius: 10px; background: rgba(20,20,40,0.2);">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurresendes&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 10px; margin: 10px; box-shadow: 2px 2px 8px #000;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurresendes&layout=compact&theme=radical" alt="Top Langs" style="border-radius: 10px; margin: 10px; box-shadow: 2px 2px 8px #000;" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurresendes&show_icons=true&theme=radical" alt="GitHub Stats" width="430" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurresendes&layout=compact&theme=radical" alt="Top Languages" width="350" />
 </div>
 
 ---
