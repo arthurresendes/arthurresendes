@@ -9,10 +9,9 @@
 ---
 
 <h2 style="text-align: left; text-shadow: 2px 2px 4px #000000;">📊 Estatísticas do GitHub</h2>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurresendes&show_icons=true&theme=radical" alt="GitHub Stats" width="430" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurresendes&layout=compact&theme=radical" alt="Top Languages" width="350" />
-</div>
+![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurresendes&show_icons=true&theme=radical)
+
+![Arthur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurresendes&layout=compact&theme=radical)
 
 ---
 
