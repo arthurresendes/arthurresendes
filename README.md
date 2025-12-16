@@ -91,4 +91,4 @@
 ---
 
 <h2 style="text-align: left; text-shadow: 2px 2px 4px #000000;">✨ Obrigado por visitar meu perfil! ✨</h2>
-<p style="text-align: left; text-shadow: 1px 1px 2px #000000;">Espero que tenha gostado e encontrado algo interessante aqui!!</p>
+<p style="text-align: left; text-shadow: 1px 1px 2px #000000;">Espero que tenha gostado e encontrado algo interessante por aqui!!</p>
