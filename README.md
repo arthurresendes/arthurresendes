@@ -66,7 +66,6 @@
   <a href="https://github.com/arthurresendes/Banco_dados-Relacional"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="48"></a>
   <a href="https://github.com/arthurresendes/Banco_dados-Relacional"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="48"></a>
   <a href="https://github.com/arthurresendes/Banco_dados-Relacional"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="48"></a>
-  <a href="https://github.com/arthurresendes/Banco_dados-Relacional"><img src="https://skillicons.dev/icons?i=sqlserver" alt="Sqlserver" height="48"></a>
 </div>
 
 ---
