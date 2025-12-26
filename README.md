@@ -72,7 +72,7 @@
 
 ## 🗄️ Banco de Dados Não Relacionais
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <a href="https://github.com/arthurresendes/Banco_dados-Relacional"><img src="https://skillicons.dev/icons?i=mysql" alt="MongoDB" height="48"></a>
+  <a href="https://github.com/arthurresendes/Banco_dados-Relacional"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="48"></a>
 </div>
 
 ---
