@@ -80,6 +80,7 @@
 ## 🧰 Ferramentas e Plataformas
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <a href="https://github.com/arthurresendes"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="48"></a>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="48">
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="48">
   <img src="https://skillicons.dev/icons?i=windows" alt="Windows" height="48">
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="48">
