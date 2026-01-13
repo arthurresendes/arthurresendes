@@ -28,6 +28,7 @@
   <a href="https://github.com/arthurresendes/Projetos-HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" height="48"></a>
   <a href="https://github.com/arthurresendes/Aprendizado-Frontend/tree/main/Aprendizado_CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" height="48"></a>
   <a href="https://github.com/arthurresendes/Aprendizado-JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JS" height="48"></a>
+  <a href="https://github.com/arthurresendes/Aprendizado-JavaScript"><img src="https://skillicons.dev/icons?i=ts" alt="JS" height="48"></a>
   <a href="https://github.com/arthurresendes/Projetos-Python"><img src="https://skillicons.dev/icons?i=py" alt="Python" height="48"></a>
   <a href="https://github.com/arthurresendes/Projetos-C"><img src="https://skillicons.dev/icons?i=c" alt="C" height="48"></a>
   <a href="https://github.com/arthurresendes/C/tree/main/EstudosCurso/estrturaDados"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="48"></a>
