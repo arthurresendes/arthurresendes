@@ -42,8 +42,8 @@
 ## 🛠️ Frameworks
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="https://github.com/arthurresendes/ESG1"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" height="48"></a>
-  <a href="https://github.com/arthurresendes/Fats-Api"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="48"></a>
-  <a href="https://github.com/arthurresendes"><img src="https://skillicons.dev/icons?i=django" alt="Django" height="48"></a>
+  <a href="https://github.com/arthurresendes/Conhecimento-Fats-Api"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="48"></a>
+  <a href="https://github.com/arthurresendes/Django_Framework"><img src="https://skillicons.dev/icons?i=django" alt="Django" height="48"></a>
 </div>
 
 ---
@@ -71,7 +71,7 @@
 
 ## 🗄️ Banco de Dados Não Relacionais
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <a href="https://github.com/arthurresendes/Banco_dados-Relacional"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="48"></a>
+  <a href="https://github.com/arthurresendes/Banco-de-dados-nao-relacional"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="48"></a>
 </div>
 
 ---
