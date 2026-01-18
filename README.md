@@ -11,7 +11,7 @@
 <h2 style="text-align: left; text-shadow: 2px 2px 4px #000000;">📊 Estatísticas do GitHub</h2>
 <div style="text-align: left; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); padding: 10px; border-radius: 10px; background: rgba(20,20,40,0.2);">
   <img src="https://github-readme-stats.vercel.app/api?username=arthurresendes&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 10px; margin: 10px; box-shadow: 2px 2px 8px #000;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurresendes&layout=compact&theme=dracula" alt="Top Langs" style="border-radius: 10px; margin: 10px; box-shadow: 2px 2px 8px #000;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurresendes&layout=compact&theme=radical" alt="Top Langs" style="border-radius: 10px; margin: 10px; box-shadow: 2px 2px 8px #000;" />
 </div>
 
 ---
@@ -26,12 +26,12 @@
 ## 💻 Linguagens
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="https://github.com/arthurresendes/Projetos-HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" height="48"></a>
-  <a href="https://github.com/arthurresendes/Aprendizado-Frontend/tree/main/Aprendizado_CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" height="48"></a>
-  <a href="https://github.com/arthurresendes/Aprendizado-JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JS" height="48"></a>
-  <a href="https://github.com/arthurresendes/Aprendizado-JavaScript"><img src="https://skillicons.dev/icons?i=ts" alt="JS" height="48"></a>
+  <a href="https://github.com/arthurresendes/Conhecimento-Frontend/tree/main/Aprendizado_CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" height="48"></a>
+  <a href="https://github.com/arthurresendes/Conhecimento-JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JS" height="48"></a>
+  <a href="https://github.com/arthurresendes/Conhecimento-TypeScript"><img src="https://skillicons.dev/icons?i=ts" alt="TS" height="48"></a>
   <a href="https://github.com/arthurresendes/Projetos-Python"><img src="https://skillicons.dev/icons?i=py" alt="Python" height="48"></a>
   <a href="https://github.com/arthurresendes/Projetos-C"><img src="https://skillicons.dev/icons?i=c" alt="C" height="48"></a>
-  <a href="https://github.com/arthurresendes/C/tree/main/EstudosCurso/estrturaDados"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="48"></a>
+  <a href="https://github.com/arthurresendes/Conhecimento-C-plus-plus"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="48"></a>
   <a href="https://github.com/arthurresendes/projetos-php"><img src="https://skillicons.dev/icons?i=php" alt="PHP" height="48"></a>
 </div>
 
