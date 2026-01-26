@@ -18,7 +18,7 @@
 
 <h2 style="text-align: left; text-shadow: 2px 2px 4px #000000;">🌐 Conecte-se Comigo</h2>
 <p style="text-align: left;">
-<a href="https://www.linkedin.com/in/arthur-resende-gomes-3312bb305"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" height="48"></a>
+<a href="https://www.linkedin.com/in/arthur-resende-gomes"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" height="48"></a>
 </p>
 
 ---
