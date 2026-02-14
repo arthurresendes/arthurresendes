@@ -32,6 +32,7 @@
   <a href="https://github.com/arthurresendes/Projetos-Python"><img src="https://skillicons.dev/icons?i=py" alt="Python" height="48"></a>
   <a href="https://github.com/arthurresendes/Projetos-C"><img src="https://skillicons.dev/icons?i=c" alt="C" height="48"></a>
   <a href="https://github.com/arthurresendes/Conhecimento-C-plus-plus"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="48"></a>
+  <a href="https://github.com/arthurresendes/Java-Aprendizado"><img src="https://skillicons.dev/icons?i=java" alt="C++" height="48"></a>
   <a href="https://github.com/arthurresendes/projetos-php"><img src="https://skillicons.dev/icons?i=php" alt="PHP" height="48"></a>
 </div>
 
