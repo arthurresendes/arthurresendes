@@ -42,6 +42,7 @@
 
 ## 🛠️ Frameworks
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://github.com/arthurresendes/Conhcimento_REACT"><img src="https://skillicons.dev/icons?i=react" alt="React" height="48"></a>
   <a href="https://github.com/arthurresendes/ESG1"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" height="48"></a>
   <a href="https://github.com/arthurresendes/Conhecimento-Fats-Api"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="48"></a>
   <a href="https://github.com/arthurresendes/Django_Framework"><img src="https://skillicons.dev/icons?i=django" alt="Django" height="48"></a>
