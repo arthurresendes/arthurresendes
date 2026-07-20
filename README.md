@@ -83,9 +83,11 @@
   <a href="https://github.com/arthurresendes"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="48"></a>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" height="48">
   <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" height="48">
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Plataform" height="48">
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="48">
   <img src="https://skillicons.dev/icons?i=windows" alt="Windows" height="48">
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="48">
+  <img src="https://skillicons.dev/icons?i=idea" alt="InteliJ" height="48">
   <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" height="48">
   <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" height="48">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="48" width="48" alt="Excel" style="box-shadow: 4px 4px 16px #217346; border-radius: 8px; background: #fff;" />
