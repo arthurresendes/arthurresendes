@@ -84,6 +84,8 @@
   <img src="https://skillicons.dev/icons?i=git" alt="Git" height="48">
   <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" height="48">
   <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Plataform" height="48">
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="48">
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="48">
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="48">
   <img src="https://skillicons.dev/icons?i=windows" alt="Windows" height="48">
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="48">
