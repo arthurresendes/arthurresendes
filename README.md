@@ -73,6 +73,13 @@
 
 ## 🗄️ Banco de Dados Não Relacionais
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://github.com/arthurresendes/Programacao-movel-1"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" height="48"></a>
+</div>
+
+---
+
+## 🗄️ Mobile
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="https://github.com/arthurresendes/Banco-de-dados-nao-relacional"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="48"></a>
 </div>
 
@@ -81,6 +88,7 @@
 ## 🧰 Ferramentas e Plataformas
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <a href="https://github.com/arthurresendes"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="48"></a>
+  <img src="https://skillicons.dev/icons?i=githubactions" alt="Github Actions" height="48">
   <img src="https://skillicons.dev/icons?i=git" alt="Git" height="48">
   <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" height="48">
   <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Plataform" height="48">
@@ -89,6 +97,7 @@
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="48">
   <img src="https://skillicons.dev/icons?i=windows" alt="Windows" height="48">
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="48">
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" height="48">
   <img src="https://skillicons.dev/icons?i=idea" alt="InteliJ" height="48">
   <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" height="48">
   <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" height="48">
