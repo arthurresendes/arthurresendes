@@ -71,7 +71,7 @@
 
 ---
 
-## 🗄️ Banco de Dados Não Relacionais
+## 📱Mobile
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="https://github.com/arthurresendes/Programacao-movel-1"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" height="48"></a>
 </div>
